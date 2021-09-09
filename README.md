@@ -30,7 +30,11 @@ My name is Kamil Wysocki. I am bachelor of science, specialisation experimental 
 * SQL - MySQL for Data Analytics and Business Intelligence;
 * Kurs Selenium Java od podstaw
 
+# Test Cases
+* [My test cases](https://docs.google.com/spreadsheets/d/1oJbdtVyLhAItWBG22CWhneczLSXlRFOm_771jgnxrmE/edit?usp=sharing)
+
 # My Bug Reports
+* [Lubimyczytac.pl search results](https://docs.google.com/document/d/1V6m7Rkm5O3d3RDqa0u7uySx_wlm3XjAeQmwKBAf4jGQ/edit?usp=sharing)
 * [Amazon.pl purchase evaluation form](https://docs.google.com/document/d/14p7HHReVOaqkEgJhiaD9-syM8RIUw-hFRCzkQTShVSs/edit?usp=sharing)
 * [Allegro.pl black list](https://docs.google.com/document/d/1iXp3kYFQgqXvEs581oDbKUobTeCY1aumlchHABXkjp0/edit?usp=sharing)
 
