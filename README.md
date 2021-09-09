@@ -24,13 +24,13 @@ My name is Kamil Wysocki. I am bachelor of science, specialisation experimental 
 [ISTQB](http://scr.istqb.org/?name=&number=14899%2FFLCT%2F2020&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=) - NO. 14899
 
 # Courses
-* [Podstawy manualnego testowania oprogramowania](https://drive.google.com/file/d/1yP0pUqGe7f7Wu3knfQypyykjBTF0WoD5/view?usp=sharing);
+* [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/certificate/UC-23410372-174a-4667-8390-695fb4e8d385/);
 * [Postman - testowanie REST API](https://www.udemy.com/certificate/UC-90944542-e0a2-4045-9724-472579a8dd29/);
 * [Wstęp do testowania oprogramowania](https://www.udemy.com/certificate/UC-0ae693a6-da9b-4ec5-b2b3-fac2acd147c6/);
 * SQL - MySQL for Data Analytics and Business Intelligence;
 * Kurs Selenium Java od podstaw
 
-# Test Cases
+# My Test Cases
 * [My test cases](https://docs.google.com/spreadsheets/d/1oJbdtVyLhAItWBG22CWhneczLSXlRFOm_771jgnxrmE/edit?usp=sharing)
 
 # My Bug Reports
