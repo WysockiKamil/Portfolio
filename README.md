@@ -27,8 +27,8 @@ My name is Kamil Wysocki. I am bachelor of science, specialisation experimental 
 * [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/certificate/UC-23410372-174a-4667-8390-695fb4e8d385/);
 * [Postman - testowanie REST API](https://www.udemy.com/certificate/UC-90944542-e0a2-4045-9724-472579a8dd29/);
 * [Wstęp do testowania oprogramowania](https://www.udemy.com/certificate/UC-0ae693a6-da9b-4ec5-b2b3-fac2acd147c6/);
-* SQL - MySQL for Data Analytics and Business Intelligence;
-* Kurs Selenium Java od podstaw
+* [SQL - MySQL for Data Analytics and Business Intelligence](https://www.udemy.com/certificate/UC-58e9dd3d-333c-4625-a76f-acf4f0e14866/);
+* Kurs Selenium Java od podstaw (in progress);
 
 # My Test Cases
 * [My test cases](https://docs.google.com/spreadsheets/d/1oJbdtVyLhAItWBG22CWhneczLSXlRFOm_771jgnxrmE/edit?usp=sharing)
