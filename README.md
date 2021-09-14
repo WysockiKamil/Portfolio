@@ -10,6 +10,7 @@ My name is Kamil Wysocki. I am bachelor of science, specialisation experimental 
 * [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - recording interactions with websites tool;
 * [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool;
 * [creately.com](https://app.creately.com/) - flowchart maker;
+* [Salesforce](https://www.salesforce.com/eu/) - as a user - one of the most popular CRM in the world;
 
 # Tech skills
 * Selenium WebDriver;
