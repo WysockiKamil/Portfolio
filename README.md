@@ -1,10 +1,9 @@
 # Portfolio
 
 # About me
-My name is Kamil Wysocki. I am bachelor of science, specialisation experimental biology, genetics. I graduated from University of Adam Mickiewicz in Poznań, Poland. Some time ago I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from the courses I have finished and from my own reserches and studies.
+Certified Software Tester with 6 months of commercial experience in a company that produces one of the most popular navigation for drivers in Poland testing both mobile apps (Android and iOS) and web. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from the courses I have finished and from my own reserches and studies.
 
 # Tools
-* [Postman](https://www.postman.com/) - REST API testing tool;
 * [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl) - project management tools;
 * [qTest](https://www.tricentis.com/products/agile-dev-testing-qtest/) - agile test management tool;
 * [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - recording interactions with websites tool;
