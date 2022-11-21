@@ -12,7 +12,6 @@ Certified Software Tester with almost a year of experience of commercial experie
 * [Salesforce](https://www.salesforce.com/eu/) - as a user - one of the most popular CRM in the world;
 
 # Tech skills
-* Selenium WebDriver;
 * SQL;
 * HTML;
 * CSS;
@@ -28,7 +27,6 @@ Certified Software Tester with almost a year of experience of commercial experie
 * [Postman - testowanie REST API](https://www.udemy.com/certificate/UC-90944542-e0a2-4045-9724-472579a8dd29/);
 * [Wstęp do testowania oprogramowania](https://www.udemy.com/certificate/UC-0ae693a6-da9b-4ec5-b2b3-fac2acd147c6/);
 * [SQL - MySQL for Data Analytics and Business Intelligence](https://www.udemy.com/certificate/UC-58e9dd3d-333c-4625-a76f-acf4f0e14866/);
-* Kurs Selenium Java od podstaw (in progress);
 
 # My Test Cases
 * [My test cases](https://docs.google.com/spreadsheets/d/1oJbdtVyLhAItWBG22CWhneczLSXlRFOm_771jgnxrmE/edit?usp=sharing)
