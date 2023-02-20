@@ -1,7 +1,7 @@
 # Portfolio
 
 # About me
-Certified Software Tester with almost a year of experience of commercial experience in a company that produces one of the most popular navigation for drivers in Poland testing both mobile apps (Android and iOS) and web. As part of my work, I took part in several projects - both mobile and web applications. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from the courses I have finished and from my own reserches and studies.
+Certified Software Tester with a year of commercial experience in a company that produces one of the most popular navigation for drivers in Poland testing both mobile apps (Android and iOS) and web. As part of my work, I took part in several projects - both mobile and web applications. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from the courses I have finished and from my own reserches and studies.
 
 # Tools
 * [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl) - project management tools;
